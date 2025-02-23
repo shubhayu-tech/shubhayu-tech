@@ -38,7 +38,7 @@ Welcome to my GitHub! Here, you'll find my projects, experiments, and exploratio
 ---
 
 ## 🏆 Skills  
-- **Languages**: Python, Java, C++.  
+- **Languages**: C, HTML, CSS, JAVASCRIPT.  
 - **Technologies**: Git, Machine Learning, Natural Language Processing (NLP).  
 - **Tools**: Jupyter Notebook, VS Code, GitHub.  
 
