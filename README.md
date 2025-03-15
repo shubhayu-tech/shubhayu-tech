@@ -15,17 +15,6 @@ Welcome to my GitHub! Here, you'll find my projects, experiments, and exploratio
 
 ---
 
-## 🛠️ My Projects  
-### 1. **[রক্তচিহ্ন BGM Generator](#)**  
-   A Python-based tool to generate suspenseful background music for my thriller script.  
-
-### 2. **[Chatbot Assistant](#)**  
-   A chatbot built using Python and NLP techniques to assist users with everyday queries.  
-
-### 3. **[Data Visualizer](#)**  
-   A web-based app for visualizing complex data in intuitive formats.  
-
-*(Add links to your repositories when available)*  
 
 ---
 
