@@ -10,7 +10,7 @@ Welcome to my GitHub! Here, you'll find my projects, experiments, and exploratio
 ## 🌟 About Me  
 - 📚 **Currently Learning**: Prompt engineering, NLP, and AI development.  
 - 💻 **Programming Languages**: Python, Java, C++.  
-- 🎯 **Goal**: Become a skilled prompt engineer with an 8 LPA salary.  
+- 🎯 **Goal**:Become a good Software Engineer.  
 - 🌱 **Hobbies**: Building projects, exploring tech trends, and writing scripts for crime thrillers like *রক্তচিহ্ন*.  
 
 ---
